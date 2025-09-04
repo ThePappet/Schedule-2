@@ -1,0 +1,9 @@
+{
+  "SCHEDULE_FILE": "data/schedule.json",
+  "PRE_LESSON_SOUND": "sounds/pre_bell.wav",
+  "START_LESSON_SOUND": "sounds/start_bell.wav",
+  "CLICK_SOUND": "sounds/click.wav",
+  "PRE_LESSON_MINUTES": 5,
+  "CHECK_INTERVAL": 60,
+  "LANGUAGE": "ru"
+}
